@@ -35,3 +35,8 @@ You need a web browser to view the website.
 
    ```sh
    git clone https://github.com/your-username/a-cafe-website.git
+
+   **
+https://github.com/user-attachments/assets/f7ebd0ca-c3e1-49b6-b68b-a3c96093c0b1
+
+**
