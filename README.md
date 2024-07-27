@@ -19,7 +19,6 @@ This is a responsive Cafe website built using HTML, CSS, Tailwind CSS, and JavaS
 - **CSS**: Styling of the website.
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 - **JavaScript**: Interactive elements on the website.
-- **Bootstrap**: For responsive design and additional styling.
 - **Font Awesome**: Icons used throughout the website.
 
 ## Getting Started
