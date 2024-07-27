@@ -35,4 +35,4 @@ You need a web browser to view the website.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/your-username/coffee-shop-website.git
+   git clone https://github.com/your-username/a-cafe-website.git
