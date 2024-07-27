@@ -1,6 +1,7 @@
-# Coffee Shop Website
-
-This is a responsive Coffee Shop website built using HTML, CSS, Tailwind CSS, and JavaScript.
+# A Cafe Website
+#☕ Cake N Coffee cafe
+ 
+This is a responsive Cafe website built using HTML, CSS, Tailwind CSS, and JavaScript.
 
 ## Features
 
